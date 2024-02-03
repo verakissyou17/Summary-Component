@@ -30,8 +30,8 @@ Summary Component
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: [GitHub](https://github.com/verakissyou17/Summary-Component)
+- Live Site URL: [GitHubPages](https://verakissyou17.github.io/Summary-Component/)
 
 ## My process
 
@@ -52,7 +52,7 @@ To improve my skills in CSS and learn new things.
 
 ### Useful resources
 
-- [Example resource 1]()
+- [CSS Learning](https://www.youtube.com/@KevinPowell)
 
 ## Author
 
